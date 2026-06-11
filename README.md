@@ -1,5 +1,5 @@
 # SMS Spam Detection using Machine Learning
-Overview
+Overview:
 This project is an end-to-end Machine Learning model that classifies SMS messages as **Spam or Not Spam** using Natural Language Processing techniques.
 
 # Dataset
